@@ -1,0 +1,6 @@
+Rubix Cube is a personal project that I created August 2019.
+This is a 3D rendering of a fully fuctioning rubix cube. 
+You can use the arrow keys along with ctrl and alt to rotate along
+the x y and z planes and you can use the number keys to turn the rows
+of the cube. The cube can easily be midified to change to any size dimention
+ie 3x3, 4x4, 10x10 etc.
